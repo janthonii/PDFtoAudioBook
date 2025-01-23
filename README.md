@@ -13,7 +13,7 @@ This Python script converts PDF text into audio using `PyPDF2` to extract text a
    ```bash
    pip install pyttsx3 PyPDF2
 
-#Key Features:
+## Key Features:
 - Pop-Up for File Selection: When you run the script, a pop-up window will appear for selecting a PDF file.
 - Audio Conversion: The program reads the selected PDF aloud, page by page.
 - Error Handling: If no file is selected or an error occurs, the program will print the appropriate message.
