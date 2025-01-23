@@ -21,9 +21,9 @@ This Python script converts PDF text into audio using `PyPDF2` to extract text a
 ## How to Save the Audio File:
 1. Save the script to a file, e.g., pdf_to_audio.py.
 2. Open your terminal or IDE and run the script:
-```bash
+   ```bash
    python pdf_to_audio.py
-```
+   ```
 3. A pop-up window will appear asking you to select the PDF file you want to convert.
 4. Once you select the file, the program will read the PDF aloud, page by page.
 
